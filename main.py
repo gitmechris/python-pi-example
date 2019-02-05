@@ -4,6 +4,6 @@ def main(msg):
     print(msg)
 
 
-main("Welcome everybody")
+main("Welcome everybody, this is the v02 branch")
 
 
